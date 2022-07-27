@@ -38,7 +38,7 @@ public class Homework9{
                     System.out.println("========== Ngủ cả ngày ========");
                     break;
                 case 6:
-                    System.out.println("Say hi");
+                    System.out.println("Goodbye");
                     System.exit(0);
                 default:
                     //Nếu người dùng không lựa chọn từ 1 đến 4 thì in ra như này

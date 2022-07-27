@@ -10,6 +10,7 @@ public class Homewok10 {
         int sum = 0, a;
         System.out.println("\n\nNhập vào số cần kiểm tra: ");
         a = sc.nextInt();
+
         //sử dụng vòng lặp for từ 1 đến a/2 (vì ước số của a luôn luôn nhỏ hơn a/2)
         for (int i = 1; i <= a / 2; i++) {
             //tìm ước của số a
