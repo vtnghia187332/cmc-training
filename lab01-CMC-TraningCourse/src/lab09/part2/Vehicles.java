@@ -1,6 +1,6 @@
 package lab09.part2;
 
-public class Vehicles implements IVehicle{
+public class Vehicles implements IVehicle {
     private String maker;
     private String model;
     private double price;
